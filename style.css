@@ -1,0 +1,25 @@
+body {
+    background-color: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    
+}
+
+.container, h1 {
+    max-width: 400px;
+    font-weight: 200;
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
+
+label {
+    font-size: 15px;
+    padding: 5px;
+    font-weight: 200;
+}
