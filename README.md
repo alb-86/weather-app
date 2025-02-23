@@ -1,3 +1,1 @@
-A Table of Movies.
-
-Built using HTML, CSS, Javascript and Accuweather APIs
+This project features a dynamic movie table developed with HTML, CSS, JavaScript, and AccuWeather APIs. It provides users with a convenient way to sort the list of movies using intuitive tabs for ascending or descending order. This design enhances the user experience by making it easy to navigate through the movie selections.
